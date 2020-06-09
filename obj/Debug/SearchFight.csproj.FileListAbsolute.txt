@@ -1,0 +1,6 @@
+C:\Users\OMEN\source\repos\SearchFight\obj\Debug\SearchFight.csprojAssemblyReference.cache
+C:\Users\OMEN\source\repos\SearchFight\bin\Debug\SearchFight.exe.config
+C:\Users\OMEN\source\repos\SearchFight\bin\Debug\SearchFight.exe
+C:\Users\OMEN\source\repos\SearchFight\bin\Debug\SearchFight.pdb
+C:\Users\OMEN\source\repos\SearchFight\obj\Debug\SearchFight.exe
+C:\Users\OMEN\source\repos\SearchFight\obj\Debug\SearchFight.pdb

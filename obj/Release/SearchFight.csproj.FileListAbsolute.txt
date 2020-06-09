@@ -1,0 +1,6 @@
+C:\Users\OMEN\source\repos\SearchFight\bin\Release\SearchFight.exe.config
+C:\Users\OMEN\source\repos\SearchFight\bin\Release\SearchFight.exe
+C:\Users\OMEN\source\repos\SearchFight\bin\Release\SearchFight.pdb
+C:\Users\OMEN\source\repos\SearchFight\obj\Release\SearchFight.exe
+C:\Users\OMEN\source\repos\SearchFight\obj\Release\SearchFight.pdb
+C:\Users\OMEN\source\repos\SearchFight\bin\Release\Configuration.xml
